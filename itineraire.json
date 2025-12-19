@@ -1,0 +1,397 @@
+{
+  "pays": "Géorgie",
+  "drapeau": "🇬🇪",
+  "symbole": "🏔️",
+  "titre": "Mestia: L'Appel des Cimes enneigées du Svanétie",
+  "budget_total": "4050€",
+  "duree": "13 jours",
+  "date_debut": "2026-02-05",
+  "date_fin": "2026-02-18",
+  "temps_vol": "28h avec 2 escales depuis Martinez, Etats-Unis",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "✈️",
+      "titre": "Départ de Martinez et voyage vers la Géorgie",
+      "legende": "Votre aventure débute par un long voyage transcontinental depuis Martinez. Préparez-vous à traverser plusieurs fuseaux horaires et à admirer les paysages changeants depuis les airs. Ce jour est dédié au transit, à la lecture et à l'anticipation des merveilles qui vous attendent au cœur du Caucase. Reposez-vous bien pour être en forme dès votre arrivée.",
+      "lieu": "En vol",
+      "activites": [
+        "✈️ <strong>Départ de Martinez</strong>: Enregistrement et embarquement pour votre vol international, marquant le début de votre périple vers la Géorgie.",
+        "🌍 <strong>Voyage transcontinental</strong>: Profitez des services à bord pour vous détendre, lire ou regarder des films, en attendant d'atteindre votre destination lointaine."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce voyage",
+          "texte": "Prévoyez un oreiller de voyage, des bouchons d'oreille et un masque de sommeil pour optimiser votre repos durant les longs vols."
+        },
+        {
+          "symbole": "💧",
+          "titre": "Hydratation",
+          "texte": "Buvez beaucoup d'eau et évitez l'alcool pour minimiser les effets du décalage horaire."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🛬",
+      "titre": "Arrivée à Mestia et première immersion",
+      "legende": "Après un long voyage, vous atterrissez à l'aéroport de Mestia, porte d'entrée de la Svanétie. L'air frais des montagnes vous accueille, et les premières tours médiévales se dessinent à l'horizon. Prenez le temps de vous installer et de faire une première balade tranquille pour vous imprégner de l'atmosphère unique de ce village de montagne, classé au patrimoine mondial de l'UNESCO.",
+      "lieu": "Mestia",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Mestia</strong>: Atterrissage à l'aéroport Queen Tamar de Mestia, offrant déjà des vues spectaculaires sur les montagnes environnantes.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Transfert vers votre hôtel 3 étoiles et installation confortable pour recharger vos batteries après le voyage.",
+        "🚶‍♂️ <strong>Balade découverte du centre de Mestia</strong>: Une promenade légère dans le village pour admirer les premières tours svanes et sentir l'ambiance locale."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "❄️",
+          "titre": "Climat en Février",
+          "texte": "En février, Mestia est sous la neige. Prévoyez des vêtements chauds, imperméables et des chaussures de marche adaptées à la neige."
+        },
+        {
+          "symbole": "🏔️",
+          "titre": "Altitude",
+          "texte": "Mestia est située à environ 1500 mètres d'altitude. Prenez votre temps pour vous acclimater les premières heures."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏰",
+      "titre": "Plongée dans l'histoire et la culture Svanes",
+      "legende": "Aujourd'hui, explorez le riche patrimoine de Mestia en visitant son musée emblématique, qui retrace l'histoire fascinante de la Svanétie. Ensuite, montez à l'intérieur d'une authentique tour Svan, symbole de la région, pour comprendre leur architecture défensive unique. Terminez la journée par une découverte des églises médiévales, témoins silencieux d'un passé glorieux.",
+      "lieu": "Mestia",
+      "activites": [
+        "🏛️ <strong>Visite du Musée d'Histoire et d'Ethnographie de Svanétie</strong>: Découvrez des trésors archéologiques, des icônes médiévales et des objets ethnographiques qui racontent l'histoire des Svanes.",
+        "🗼 <strong>Ascension d'une tour Svan</strong>: Montez dans l'une des célèbres tours défensives pour une vue panoramique sur Mestia et ses environs enneigés, et imaginez la vie d'antan."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "📚",
+          "titre": "Culture Svan",
+          "texte": "Les Svanes ont une culture distincte, avec leur propre dialecte et des traditions ancestrales préservées."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Les tours offrent des opportunités de photos uniques, surtout avec la neige fraîche."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "⛷️",
+      "titre": "Journée de ski à Hatsvali",
+      "legende": "Mestia est également une destination prisée pour les sports d'hiver. Aujourd'hui, direction la station de ski de Hatsvali, facilement accessible en télésiège. Profitez des pistes enneigées avec des vues imprenables sur le mont Ouchba et les sommets du Caucase. Que vous soyez débutant ou skieur confirmé, les pentes de Hatsvali promettent une journée mémorable.",
+      "lieu": "Hatsvali",
+      "activites": [
+        "🚠 <strong>Montée en télésiège à Hatsvali</strong>: Prenez le télésiège depuis Mestia pour atteindre la station de ski de Hatsvali, offrant des vues spectaculaires dès le départ.",
+        "⛷️ <strong>Ski ou snowboard sur les pistes</strong>: Profitez des pistes bien entretenues de Hatsvali, adaptées à différents niveaux, avec le majestueux Caucase en toile de fond."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎿",
+          "titre": "Location d'équipement",
+          "texte": "Des équipements de ski et snowboard sont disponibles à la location à Mestia ou directement à la station de Hatsvali."
+        },
+        {
+          "symbole": "☕",
+          "titre": "Pause gourmande",
+          "texte": "Plusieurs cafés et restaurants sur les pistes proposent des plats locaux et des boissons chaudes pour se réchauffer."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "❄️",
+      "titre": "Randonnée hivernale et découverte locale",
+      "legende": "Après l'adrénaline du ski, optez pour une immersion plus douce dans la nature environnante. Une randonnée facile vers le glacier de Chalaadi (si les conditions le permettent) vous offrira des paysages glaciaires époustouflants. L'après-midi, explorez les ruelles de Mestia à la recherche d'artisanat local et de produits typiques, une belle occasion de rencontrer les habitants.",
+      "lieu": "Mestia",
+      "activites": [
+        "🚶‍♀️ <strong>Randonnée vers le glacier de Chalaadi (ou alternative enneigée)</strong>: Une marche pittoresque le long de la rivière Mestiachala, menant à la base du glacier, offrant des vues spectaculaires sur la glace et les montagnes.",
+        "🛍️ <strong>Exploration du marché local et des boutiques d'artisanat</strong>: Flânez dans les petites échoppes de Mestia pour découvrir des produits faits main, des souvenirs et des spécialités locales."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🥾",
+          "titre": "Équipement de randonnée",
+          "texte": "Des chaussures de randonnée imperméables et des bâtons sont recommandés pour la marche dans la neige."
+        },
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les chaussettes en laine faites main et les chapeaux traditionnels svanes sont d'excellents souvenirs."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🚗",
+      "titre": "Excursion à Ushguli, le village le plus haut d'Europe",
+      "legende": "Préparez-vous pour une journée inoubliable avec une excursion en 4x4 vers Ushguli, un ensemble de quatre villages classés à l'UNESCO, réputé pour être la communauté habitée la plus haute d'Europe. Le trajet est spectaculaire, traversant des paysages hivernaux grandioses. Une fois sur place, vous serez transporté dans le temps, au milieu de tours médiévales et de maisons en pierre, avec le mont Chkhara en toile de fond.",
+      "lieu": "Ushguli",
+      "activites": [
+        "🚙 <strong>Trajet en 4x4 vers Ushguli</strong>: Un voyage aventureux à travers des routes enneigées et des paysages montagneux à couper le souffle pour atteindre ce village isolé.",
+        "🚶‍♂️ <strong>Exploration des villages d'Ushguli</strong>: Promenez-vous parmi les tours svanes et les maisons traditionnelles, imprégnez-vous de l'atmosphère unique de ce site historique."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Conditions routières",
+          "texte": "La route vers Ushguli peut être difficile en hiver. Un véhicule 4x4 avec un chauffeur expérimenté est indispensable."
+        },
+        {
+          "symbole": "🥶",
+          "titre": "Températures",
+          "texte": "Ushguli est plus froid que Mestia en raison de son altitude plus élevée. Habillez-vous en conséquence."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": " panoramic",
+      "titre": "Vues panoramiques et détente montagnarde",
+      "legende": "Après l'aventure d'Ushguli, cette journée est dédiée à la contemplation et à la détente. Prenez le télésiège jusqu'au sommet de Zuruldi pour profiter de vues panoramiques à 360 degrés sur les sommets enneigés du Caucase. L'après-midi, accordez-vous un moment de repos ou explorez les environs de Mestia à votre rythme, en savourant la tranquillité des montagnes.",
+      "lieu": "Mestia",
+      "activites": [
+        "🚠 <strong>Montée en télésiège au Mont Zuruldi</strong>: Atteignez le sommet de Zuruldi pour des vues imprenables sur le Grand Caucase, un panorama à couper le souffle.",
+        "☕ <strong>Détente au café panoramique</strong>: Profitez d'une boisson chaude au café situé au sommet, tout en admirant les paysages grandioses qui s'offrent à vous."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Météo",
+          "texte": "Vérifiez la météo avant de monter à Zuruldi pour vous assurer d'avoir une bonne visibilité."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Courtes balades",
+          "texte": "De courtes balades en raquettes sont possibles autour du sommet de Zuruldi pour les plus aventureux."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🏡",
+      "titre": "Trésors cachés et légendes locales",
+      "legende": "Aujourd'hui, plongez plus profondément dans l'histoire des héros locaux en visitant la maison-musée de Mikhail Khergiani, un alpiniste légendaire. L'après-midi, partez à la découverte de petites églises et de tours moins connues, dispersées autour de Mestia, chacune racontant sa propre histoire. C'est une journée pour les explorateurs curieux, désireux de découvrir les facettes moins touristiques de la Svanétie.",
+      "lieu": "Mestia",
+      "activites": [
+        "🏡 <strong>Visite de la Maison-Musée de Mikhail Khergiani</strong>: Explorez la demeure de ce célèbre alpiniste svan, surnommé le \"Tigre des Rochers\", et découvrez sa vie et ses exploits.",
+        "⛪ <strong>Découverte des églises et tours périphériques</strong>: Partez à pied pour explorer les petites églises médiévales comme l'église de Laghami et d'autres tours isolées, offrant une perspective différente sur l'architecture locale."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "📖",
+          "titre": "Histoires locales",
+          "texte": "Chaque tour et église a sa propre légende. N'hésitez pas à demander aux habitants ou à votre guide."
+        },
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Chaussures confortables",
+          "texte": "Prévoyez de bonnes chaussures pour marcher sur les chemins enneigés et parfois glissants."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🐎",
+      "titre": "Aventure équestre ou nouvelle journée de ski",
+      "legende": "Choisissez votre aventure pour cette journée : une balade à cheval dans les paysages enneigés de la Svanétie, offrant une perspective unique sur les montagnes et les villages. Ou, si vous avez adoré les pistes, retournez à Hatsvali pour une nouvelle session de ski ou de snowboard. Quelle que soit votre décision, l'expérience sera immersive et mémorable, au cœur de la nature caucasienne.",
+      "lieu": "Mestia",
+      "activites": [
+        "🐎 <strong>Balade à cheval dans la neige</strong>: Profitez d'une excursion équestre guidée à travers les forêts et les champs enneigés, une manière authentique de découvrir les paysages hivernaux.",
+        "⛷️ <strong>Deuxième journée de ski à Hatsvali</strong>: Pour les amateurs de glisse, une nouvelle opportunité de dévaler les pistes et de perfectionner votre technique."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🐴",
+          "titre": "Équitation",
+          "texte": "Des guides locaux proposent des balades à cheval adaptées à tous les niveaux, même pour les débutants."
+        },
+        {
+          "symbole": "🧤",
+          "titre": "Protection",
+          "texte": "N'oubliez pas vos gants et un bonnet chaud, surtout si vous choisissez l'équitation en extérieur."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🍲",
+      "titre": "Immersion culinaire et artisanat local",
+      "legende": "Découvrez les saveurs de la Géorgie avec un atelier de cuisine où vous apprendrez à préparer des spécialités locales comme le Khachapuri et les Khinkali. L'après-midi, explorez les ateliers d'artisans locaux, où vous pourrez observer la fabrication de bijoux en argent, de feutre ou de sculptures sur bois. Une journée pour éveiller vos sens et emporter un peu de la Svanétie chez vous.",
+      "lieu": "Mestia",
+      "activites": [
+        "👩‍🍳 <strong>Atelier de cuisine géorgienne</strong>: Apprenez les secrets de la gastronomie locale en préparant des plats emblématiques avec un chef local, suivi d'une dégustation.",
+        "🎨 <strong>Visite d'ateliers d'artisans</strong>: Rencontrez des artisans locaux et découvrez leur savoir-faire traditionnel, de la poterie aux textiles en passant par la sculpture."
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🍷",
+          "titre": "Vin géorgien",
+          "texte": "Accompagnez votre repas de vin géorgien, réputé pour sa méthode de fabrication ancestrale en qvevri."
+        },
+        {
+          "symbole": "🌶️",
+          "titre": "Épices",
+          "texte": "La cuisine géorgienne est riche en saveurs et en épices. N'hésitez pas à goûter le Svanuri Marili (sel svane)."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🌲",
+      "titre": "Derniers instants en Svanétie et nature",
+      "legende": "Profitez de cette dernière journée complète en Svanétie pour revisiter un lieu coup de cœur ou explorer un sentier de randonnée facile que vous n'auriez pas eu le temps de faire. Une balade tranquille le long de la rivière ou dans les forêts environnantes vous permettra de savourer une dernière fois la beauté paisible des paysages hivernaux. Préparez-vous mentalement à quitter ce havre de paix.",
+      "lieu": "Mestia",
+      "activites": [
+        "🚶‍♀️ <strong>Balade contemplative le long de la rivière Mestiachala</strong>: Une promenade paisible pour admirer les paysages enneigés et les tours svanes sous un autre angle.",
+        "🏞️ <strong>Exploration libre des environs de Mestia</strong>: Profitez de votre temps pour découvrir un coin de nature inexploré ou revisiter votre endroit préféré du village."
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🧘‍♀️",
+          "titre": "Moment de calme",
+          "texte": "Prenez le temps de vous asseoir et d'observer la vie locale, loin de l'agitation urbaine."
+        },
+        {
+          "symbole": "💌",
+          "titre": "Cartes postales",
+          "texte": "Envoyez une carte postale depuis Mestia pour partager la beauté de la Svanétie avec vos proches."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🚌",
+      "titre": "Retour vers Tbilissi et découverte de la capitale",
+      "legende": "Il est temps de dire au revoir à la majestueuse Svanétie. Vous prendrez un vol ou un transport terrestre pour retourner à Tbilissi, la vibrante capitale géorgienne. Après vous être installé à votre hôtel, profitez de l'après-midi pour une première immersion dans l'ambiance cosmopolite de Tbilissi, en vous promenant dans la vieille ville et en admirant son architecture éclectique.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "✈️ <strong>Vol Mestia - Tbilissi (ou transport terrestre)</strong>: Transfert de Mestia à Tbilissi, offrant une dernière vue aérienne sur les montagnes ou un trajet pittoresque.",
+        "🚶‍♂️ <strong>Première exploration de la vieille ville de Tbilissi</strong>: Flânez dans les ruelles pavées, découvrez les balcons sculptés et l'architecture colorée de la capitale géorgienne."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "🏙️",
+          "titre": "Contraste",
+          "texte": "Tbilissi offre un contraste saisissant avec la tranquillité de Mestia, avec son dynamisme urbain et sa vie nocturne."
+        },
+        {
+          "symbole": "🚡",
+          "titre": "Téléphérique",
+          "texte": "Prenez le téléphérique pour la forteresse de Narikala pour une vue imprenable sur la ville au coucher du soleil."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🛫",
+      "titre": "Derniers achats et départ de Géorgie",
+      "legende": "Profitez de cette dernière matinée à Tbilissi pour faire quelques achats de dernière minute, dénicher des souvenirs uniques ou simplement savourer un dernier café géorgien. Selon l'heure de votre vol, vous aurez le temps de revisiter un quartier ou de vous imprégner une dernière fois de l'atmosphère de la capitale avant de vous diriger vers l'aéroport pour votre vol retour vers Martinez, les souvenirs de la Svanétie plein la tête.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "🛍️ <strong>Achats de souvenirs au marché aux puces de Dry Bridge</strong>: Trouvez des trésors uniques, des antiquités aux œuvres d'art locales, pour ramener un morceau de Géorgie chez vous.",
+        "🛫 <strong>Transfert à l'aéroport international de Tbilissi</strong>: Départ pour votre vol retour, marquant la fin de votre incroyable aventure géorgienne."
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Prévoyez suffisamment de temps pour le transfert à l'aéroport et les formalités d'enregistrement."
+        },
+        {
+          "symbole": "✈️",
+          "titre": "Enregistrement",
+          "texte": "Vérifiez les exigences de bagages de votre compagnie aérienne pour éviter les frais supplémentaires."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "2000€/pers (Vol aller-retour Martinez - Tbilissi, classe économique, avec escales)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "250€/pers (Vol intérieur Tbilissi-Mestia, marshrutkas, 4x4 Ushguli, taxis locaux)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "585€/pers (13 jours x 45€/jour, repas dans des restaurants de gamme moyenne)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "900€/pers (12 nuits x 75€/nuit, hôtels 3 étoiles ou guesthouses de qualité)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "300€/pers (Musées, ski pass, excursion Ushguli, atelier cuisine, balade à cheval)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de Décembre à Mars pour les sports d'hiver, et de Juin à Septembre pour la randonnée.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La population de Svanétie est principalement composée de Svanes, un groupe ethnique géorgien unique, réputé pour son hospitalité et ses traditions ancestrales.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "La Géorgie est un pays du Caucase, berceau du vin, avec une histoire millénaire, une culture riche et une nature montagneuse époustouflante.",
+      "symbole": "🇬🇪"
+    },
+    {
+      "titre": "Les tours de Svanétie, classées au patrimoine mondial de l'UNESCO, sont des structures défensives médiévales emblématiques, uniques à la région.",
+      "symbole": "🗼"
+    },
+    {
+      "titre": "La langue officielle est le géorgien, mais le russe et l'anglais sont souvent parlés dans les zones touristiques et par les jeunes générations.",
+      "symbole": "🗣️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations officielles et inspirations de voyage en Géorgie",
+      "titre": "Tourisme Géorgie",
+      "url": "https://georgia.travel/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo détaillées pour Mestia",
+      "titre": "Météo Mestia",
+      "url": "https://www.accuweather.com/fr/ge/mestia/112701/weather-forecast/112701",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Informations sur les vols et aéroports en Géorgie",
+      "titre": "Aéroports de Géorgie",
+      "url": "https://www.tbilisiairport.com/en-EN/Pages/Default.aspx",
+      "symbole": "✈️"
+    }
+  ]
+}
